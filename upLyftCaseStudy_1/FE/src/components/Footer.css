@@ -1,0 +1,20 @@
+/* Footer.css */
+
+.footer {
+  font-family: 'Lucida Handwriting';
+  color: #ff6600;
+}
+
+.newsletter-card {
+  background-color: #373538; /* Set background color for newsletter card */
+}
+
+.social-media {
+  background-color: #373538; /* Set background color for social media section */
+}
+
+
+
+.links a{
+  color: #ff6600; /* Change text color on hover */
+}

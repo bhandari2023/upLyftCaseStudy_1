@@ -1,0 +1,28 @@
+/* HomeCover.css */
+.carousel {
+    max-width: 100%;
+    margin-bottom: 2rem;
+  }
+  
+  .carousel-inner {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .carousel-item img {
+    border-radius: 10px;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .carousel-indicators button {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .carousel-indicators .active {
+    background-color: #000;
+  }
+  

@@ -1,0 +1,43 @@
+/* Slider.css */
+.carousel-item img {
+    border-radius: 10px;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .carousel {
+    max-width: 100%;
+  }
+  
+  .carousel-inner {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 5%;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    width: 25px;
+    height: 25px;
+  }
+  
+  .btn-dark {
+    background-color: #343a40;
+  }
+  
+  .btn-dark:hover {
+    background-color: #212529;
+  }
+  
